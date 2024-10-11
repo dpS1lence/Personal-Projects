@@ -78,6 +78,7 @@
 - Certificate of Excellence from Vasil Levski National Military University, personally presented by Brigadier General Ivan Malamov.
 
 **Links:**
+[National Military University "Vasil Levski"'s post](https://www.nvu.bg/bg/%D1%81%D1%8A%D0%B1%D0%B8%D1%82%D0%B8%D1%8F/brigaden-general-ivan-malamov-otlichi-dvama-desetoklasnitsi-ot-pmg-vasil-drumev.html)
 [Youtube](https://youtu.be/JklPVTFS4PY)
 [Github](https://github.com/Legodatski/NOIT-2022)
 
