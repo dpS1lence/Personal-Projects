@@ -1,5 +1,34 @@
 # My Projects and Awards
 ## The majority of these projects were developed collaboratively.
+## 💹Lyuinsy Jewelry
+
+**Creation Date:** 11/2024
+
+**End Date:** Present
+
+**Achievements:** 
+- Every aspect of the site - **design**, **development**, **photography**, **assets**, **admin panel** and **advertisements**, was crafted by me
+
+**Description:** 
+- I work closely with a jewelry startup, handling everything from building their website to managing marketing and ad campaigns. I designed and developed a custom e-commerce platform that follows a funnel-based business model, which I modified for ultra-fast purchasing, ensuring a seamless user experience that maximizes conversions. The brand specializes in handmade jewelry, combining craftsmanship with a modern digital strategy to grow its presence and sales effectively.
+  
+**Links:**
+[Github](https://github.com/dpS1lence/Lyuinsy-Jewelry-Web)
+[Website](https://www.lyuinsy.com/)
+## 💹Meal Master
+
+**Creation Date:** 05/2024
+
+**End Date:** 10/2024
+
+**Achievements:** 
+- I was a Tech Team Leader for a client, leading a team of 8 developers in building a successful app for a startup. I managed the development process, coordinated tasks, and ensured the final product met the client’s needs and business goals.
+
+**Description:** 
+- Join the Meal Master app to discover how AI can revolutionize your cooking experience.
+  
+**Links:**
+[Github](https://github.com/InternAcademy/CookingApp)
 ## 🏆🥇Insightify
 
 **Creation Date:** 04/2023
