@@ -1,4 +1,4 @@
-# My Projects and Awards
+# My Public Projects and Awards
 ## The majority of these projects were developed collaboratively.
 ## 💹Lusy Jewelry
 
