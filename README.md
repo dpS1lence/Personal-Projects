@@ -1,6 +1,6 @@
 # My Projects and Awards
 ## The majority of these projects were developed collaboratively.
-## 💹Lyuinsy Jewelry
+## 💹Lusy Jewelry
 
 **Creation Date:** 11/2024
 
@@ -14,7 +14,7 @@
   
 **Links:**
 [Github](https://github.com/dpS1lence/Lyuinsy-Jewelry-Web)
-[Website](https://www.lyuinsy.com/)
+[Website](https://www.lusy.bg/)
 ## 💹Meal Master
 
 **Creation Date:** 05/2024
